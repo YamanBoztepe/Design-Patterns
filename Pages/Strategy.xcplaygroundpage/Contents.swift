@@ -6,7 +6,7 @@ struct TargetDetails {
     let currentDate: Int
     
     var isCompleted: Bool {
-        currentDate == targetedDays || currentDate > targetedDays
+        currentDate >= targetedDays
     }
 }
 
