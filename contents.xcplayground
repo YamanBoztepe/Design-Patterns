@@ -3,6 +3,7 @@
     <pages>
         <page name='Strategy'/>
         <page name='Memento'/>
-        <page name='Observer.xcplaygroundpage'/>
+        <page name='Observer'/>
+        <page name='Singleton'/>
     </pages>
 </playground>
