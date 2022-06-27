@@ -7,5 +7,6 @@
         <page name='Singleton'/>
         <page name='Delegation'/>
         <page name='Builder'/>
+        <page name='Factory'/>
     </pages>
 </playground>
