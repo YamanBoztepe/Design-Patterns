@@ -9,5 +9,6 @@
         <page name='Builder'/>
         <page name='Factory'/>
         <page name='Adapter'/>
+        <page name='Iterator'/>
     </pages>
 </playground>
